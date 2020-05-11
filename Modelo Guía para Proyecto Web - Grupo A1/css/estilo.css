@@ -1,0 +1,156 @@
+header {
+    width: 100%;            
+    height: 90px;          
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: fixed;
+    top: 0; 
+    left: 0;
+    z-index: 99;
+    
+    background:  #000;
+    background-size: cover;
+    }
+    
+header article {
+    width: 1200px;
+    height: 90px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+header article a#logo {
+    width: 153px;
+    height: 60px;
+    display: block;
+    margin: 15px 10px 15px 0;
+    float: left;
+    position: relative;
+}
+header article a#logo img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    position: relative;
+}
+
+header article nav#menu-principal {
+    width: 600px;
+    height: 60px;
+    display: block;
+    margin: 15px 0 15px 10px;
+    float: right;
+    position: relative;
+}
+header article nav#menu-principal a {
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0;
+    float: left;
+    position: relative;
+    
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.10em;
+    padding: 16px 15px;
+    transition: all 0.1s ease-in;                       
+}
+header article nav#menu-principal a:hover {
+    color: #2f5abc;
+    border-bottom: solid 2px #2db4af;
+    transition: all 0.2s ease-in;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* Parámetros globales de maquetación y estilo */
+
+h1, h2, h3 {
+    font-family: 'Pacifico', cursive;
+}
+
+h4, h5, h6, p, a {
+    font-family: 'Varela Round', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+/* Estilo propio del sitio web */
+aside#menu-cortina { }
+
+aside#menu-cortina a#abrir { }
+aside#menu-cortina a#abrir i { }
+aside#menu-cortina a#abrir:hover { }
+aside#menu-cortina a#abrir:hover i { }
+
+aside#menu-cortina a#cerrar { }
+aside#menu-cortina a#cerrar i { }
+aside#menu-cortina a#cerrar:hover { }
+aside#menu-cortina a#cerrar:hover i { }
+
+
+
+aside#menu-cortina nav#menu-idioma-movil { }
+aside#menu-cortina nav#menu-idioma-movil a { }
+aside#menu-cortina nav#menu-idioma-movil a:hover { }
+aside#menu-cortina nav#menu-idioma-movil span { }
+
+
